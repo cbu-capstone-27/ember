@@ -19,7 +19,7 @@ Launch scope is tracked on the [EMBER](https://ember-capstone.atlassian.net/brow
 
 ## Team
 
-Ryan Stoffel, Payton Henry, Elijah Tabor, Brandon Magana
+Ryan Stoffel, Payton Henry, Elijah Tabor, Brandon Magana, Jacob Pugh
 
 ## License
 
