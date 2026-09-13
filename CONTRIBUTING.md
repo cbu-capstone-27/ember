@@ -25,10 +25,6 @@ See the "Repository layout" section of `README.md`. In short: apps in `apps/`, b
 
 Anything hard to reverse or cross-cutting gets an ADR in `docs/adr/`. See `docs/adr/0000-use-adrs.md` for the format.
 
-## AI-assisted contributions
-
-Welcome, with the "agent-authored" box ticked in the PR template and a human who has actually read the diff listed as the reviewer.
-
 ## Local setup
 
 ```sh

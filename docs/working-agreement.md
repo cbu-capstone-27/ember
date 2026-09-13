@@ -22,11 +22,6 @@ How the Ember team works together. This is a living document; changes go through
 - Every PR fills out `.github/PULL_REQUEST_TEMPLATE.md`, including the Jira key.
 - TODO: number of required reviewers, who reviews what (see `.github/CODEOWNERS`), turnaround expectation.
 
-## AI-Assisted Work
-
-- Agent-authored or agent-assisted PRs must tick the "agent-authored" box in the PR template.
-- TODO: what level of human review is required for agent-authored changes; any areas that are off-limits for agents.
-
 ## Scope Discipline
 
 - Launch scope is tracked by Jira label (`floor`, `drop-first`, `not-at-launch`, `coursework`). See `README.md`.

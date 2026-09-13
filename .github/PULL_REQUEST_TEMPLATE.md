@@ -38,5 +38,3 @@ If there is nothing to test (docs-only), say so explicitly.
 - [ ] Targets `develop` (or `main` only for release/hotfix)
 - [ ] Docs / ADR updated if behaviour or a decision changed
 - [ ] No secrets or credentials committed (`.env.example` only)
-- [ ] **Agent-authored:** some or all of this PR was written by an AI coding agent
-  <!-- If checked, name the agent/model below and note what a human reviewed. -->
