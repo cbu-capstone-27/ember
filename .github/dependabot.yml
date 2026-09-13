@@ -1,0 +1,20 @@
+# Dependabot configuration.
+#
+# Only GitHub Actions for now. Add package ecosystems (npm, pip, gomod, ...)
+# per directory once the corresponding app/service has a manifest.
+
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    target-branch: develop
+    labels:
+      - dependencies
+    commit-message:
+      prefix: "chore(ci)"
+    groups:
+      github-actions:
+        patterns:
+          - "*"

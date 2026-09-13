@@ -1,0 +1,30 @@
+# Code owners for Ember.
+#
+# Placeholder mapping: everything routes to the repo owner until the team
+# confirms area ownership. Replace the handle on each line with the actual
+# owner(s) once agreed (see docs/working-agreement.md).
+#
+# Later lines take precedence over earlier ones.
+
+# Default owner for anything not matched below
+*                       @RyanStoffel
+
+# Apps
+/apps/web/              @RyanStoffel
+/apps/cli/              @RyanStoffel
+/apps/mcp/              @RyanStoffel
+
+# Services
+/services/pipeline/     @RyanStoffel
+
+# Shared packages
+/packages/              @RyanStoffel
+
+# Infrastructure and CI
+/infra/                 @RyanStoffel
+/.github/               @RyanStoffel
+
+# Docs, ADRs, governance
+/docs/                  @RyanStoffel
+/SECURITY.md            @RyanStoffel
+/CONTRIBUTING.md        @RyanStoffel
